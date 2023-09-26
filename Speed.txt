@@ -1,0 +1,12 @@
+Respondendo de acordo com o documento disponibilizado para esclarecer os objetivos
+
+
+Acredito que uma funcionalidade que eu ainda não tenha tido contato mas parece ser algo interessante seja a parte de reconhecimento de imagem. Parece ser algo interessante de usar, porém ainda não tive nenhuma situação em que houvesse necessidade para tal uso.
+
+Uma funcionalidade que eu gostaria que fosse diferente é a parte de passar uma lista para uma tabela, não que seja necessariamente difícil de fazer sem ter uma ação específica para isso, mas poderia ser algo útil se tivesse.
+
+Acredito que até agora, o maior desafio técnico que enfrentei foi o seguinte Havia a necessidade de criar pastas no sharepoint de acordo com dados que vinham de um arquivo de configuração, e não havia um número definido que quantas pastas eu deveria criar, então isso envolveu uma lógica que acredito que tenha sido bastante desafiadora para mim, porém com muitas tentativa e rabiscos de código a solução para implementar essa funcionalidade foi feita. Características interessantes desse desafio (As pastas devem ter hierarquia de acordo com o XML, o valor do XML deve ser buscado dentro de chaves dos chamados e os os valores presentes nesses chamados devem ser os nomes das pastas, levando em conta a hierarquia).
+
+Eu imagino que o futuro da área seja bastante promissor, uma vez que deve haver muitas empresas que terão pelo menos um ou mais processos que podem ser automatizados, sem contar casos de grandes empresas que podem ser muito beneficiadas por esse tipo de serviço. 
+
+Particularmente, não sou o maior fã de plataformas low code, pois acredito que elas nos deixam mais dependentes dessas ferramentas para trabalhar do que em comparação com uma pessoa que desenvolve RPA em Python por exemplo. Porém entendo que a plataforma traz alguns benefícios como um tempo de aprendizado um pouco menor em comparação com o tempo de aprendizado para fazer RPA em Python e outras linguagens de programação. Acredito que minha experiência com o desenvolvimento de RPA utilizando automation anywhere esteja sendo algo bom no sentido de aprendizado em lógica de programação, e algoritmos, afinal mesmo sendo low code, o que é a parte central do RPA é desenvolver um algoritmo que resolva a situação especificada. Por fim digo que estou gostando de trabalhar nessa área de RPA.
